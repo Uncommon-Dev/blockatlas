@@ -18,7 +18,7 @@ require (
 	github.com/itchyny/timefmt-go v0.1.2
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/mr-tron/base58 v1.2.0
-	github.com/opencontainers/runc v1.1.0 // indirect
+	github.com/opencontainers/runc v1.1.2 // indirect
 	github.com/ory/dockertest v3.3.5+incompatible
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/prometheus/client_golang v0.9.4
