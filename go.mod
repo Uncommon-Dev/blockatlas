@@ -14,7 +14,7 @@ require (
 	github.com/deckarep/golang-set v1.7.1
 	github.com/getsentry/raven-go v0.2.0
 	github.com/gin-contrib/cors v1.3.1
-	github.com/gin-gonic/gin v1.7.7
+	github.com/gin-gonic/gin v1.9.0
 	github.com/itchyny/timefmt-go v0.1.2
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/mr-tron/base58 v1.2.0
@@ -25,13 +25,12 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/viper v1.7.1
 	github.com/streadway/amqp v1.0.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.1
 	github.com/swaggo/gin-swagger v1.3.0
 	github.com/swaggo/swag v1.7.0
 	github.com/trustwallet/golibs v0.1.8
 	github.com/trustwallet/golibs/network v0.0.0-20210302024139-c340cb937103
-	golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd
-	golang.org/x/tools v0.0.0-20210106214847-113979e3529a // indirect
+	golang.org/x/crypto v0.5.0
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/driver/postgres v1.0.8
 	gorm.io/gorm v1.20.12
